@@ -1,4 +1,4 @@
-# 15-Day Deep Dive Plan: Networking & Security Foundations for Cloud System Design (AWS + GCP)
+# 15-Day Deep Dive Plan: Networking & Security Foundations for Cloud System Design
 
 **Final Project:** *Designing a Secure Global File Sharing System on Cloud* 
 ---
